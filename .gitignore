@@ -1,0 +1,28 @@
+# ─── Model weights (>50MB) ───────────────────────────────────────────────────
+penn_model.pth
+Archive/dog_model.pth
+
+# ─── Large archives / zips (>50MB) ───────────────────────────────────────────
+Archive.zip
+PennFudanPed_Full.zip
+
+# ─── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# ─── Environment ──────────────────────────────────────────────────────────────
+.env
+.venv/
+env/
+venv/
+
+# ─── OS artefacts ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+Archive/__MACOSX/
+**/.DS_Store
+**/Thumbs.db
